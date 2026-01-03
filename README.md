@@ -95,5 +95,5 @@ Used for advanced analytics without collapsing rows.
 ---
 
 ### 👤 Author
-* **Aman Jhagta** - Data Analyst / Analytics Engineer
+* **Aman Jhagta** 
 * *Concept based on AtliQ Hardware Case Study*
